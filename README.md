@@ -26,18 +26,20 @@ address the varying degrees of malignancy and treatment complexities associated 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![img1](https://github.com/vimalarun123/Projectwork2/assets/113410875/e6779cc6-f1e1-4907-9998-06a9b126fbef)
+![img1](https://github.com/vimalarun123/Projectwork2/assets/113410875/4ccccf7b-eccf-4084-8566-63eb01ec3757)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 -
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![Screenshot (42)](https://github.com/vimalarun123/Projectwork2/assets/113410875/8ba96e16-0968-4408-9906-e7c7ad10b96e))
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output2 -
+![Screenshot (43)](https://github.com/vimalarun123/Projectwork2/assets/113410875/e8aeea1b-5541-42de-8c4f-cc153a43e0e6)
+![Screenshot (44)](https://github.com/vimalarun123/Projectwork2/assets/113410875/0a0d4b01-f735-44cc-8a95-6c2c6ce9b483)
+![Screenshot (45)](https://github.com/vimalarun123/Projectwork2/assets/113410875/503a61e3-e8cc-4fad-afb9-2a75ab7c00bd)
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
