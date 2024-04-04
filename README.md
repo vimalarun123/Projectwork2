@@ -1,11 +1,10 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Advancements in Automated Skin Cancer Diagnosis: A Comprehensive Review and Analysis
+
+The integration of ML system, aimed at providing assistance in skin cancer diagnosis.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
+Skin cancer, ranking as the sixth most prevalent cancer globally, poses a significant public health concern due to its increasing incidence and potential morbidity. This paper presents an exhaustive examination of the latest advancements in automated skin cancer diagnosis, focusing on detection and classification methodologies. After outlining the epidemiology and etiology of skin cancer, including its association with UV radiation exposure and immune system dysfunction, the paper elaborates on the critical role of early detection in improving patient outcomes. By exploring the diverse types of skin cancer, including Melanoma, Basal cell carcinoma, and Squamous cell carcinoma, the paper underscores the urgent need for accurate and efficient diagnostic tools to 
+address the varying degrees of malignancy and treatment complexities associated with each subtype.
 ## Features
 <!--List the features of the project as shown below-->
 - Implements advance neural network method.
