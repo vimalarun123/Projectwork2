@@ -26,7 +26,7 @@ address the varying degrees of malignancy and treatment complexities associated 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![img1](https://github.com/vimalarun123/Projectwork2/assets/113410875/e6779cc6-f1e1-4907-9998-06a9b126fbef)
 
 
 ## Output
